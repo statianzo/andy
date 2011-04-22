@@ -1,0 +1,19 @@
+LinearLayout:
+  orientation: vertical
+  layout_width: fill_parent
+  layout_height: fill_parent
+
+  TextView:
+    layout_width: fill_parent
+    layout_height: fill_parent
+    text: This is only a test
+
+  TextView:
+    layout_width: fill_parent
+    layout_height: fill_parent
+    text: Another
+
+  CheckBox:
+    layout_width: fill_parent
+    id: @+id/cbx_selected
+
